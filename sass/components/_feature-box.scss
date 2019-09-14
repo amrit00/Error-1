@@ -1,0 +1,9 @@
+.feature-box {
+    background-color: rgba($color-white, .8);
+    margin: 20rem auto;
+    padding: 6rem;
+    text-align: center;
+    &__icon {
+        font-size: 5rem;
+    }
+}
